@@ -1,6 +1,6 @@
 # ⚒ 🐻‍❄️ Git Cheatsheet
 
-## Branches
+## 🐯 Branches
 ### Move barnch to commit `hash`
 #### checkout master to commit hash:
 ```
