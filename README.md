@@ -20,6 +20,11 @@ git show
 - cosnt deletedFn = () => "deleted"
 - const deletedLine = "deletedLine";
 ```
+#### Get changes by hash/baranchName
+```
+git show hash
+git show development
+```
 
 
 
