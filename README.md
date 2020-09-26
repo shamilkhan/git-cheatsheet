@@ -25,7 +25,7 @@ git show
 git show hash
 git show development
 ```
-### Show changes N commits back
+### 👽 Show changes N commits back
 #### one commit back
 ```
   git show HEAD~
