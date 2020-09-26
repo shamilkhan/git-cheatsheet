@@ -12,7 +12,7 @@ git checkout -B master
 ```
 git show
 ```
-### output: 
+##### output: 
 ```js
 +const foo = () => {
 + return "bar";
