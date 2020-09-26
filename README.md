@@ -25,8 +25,20 @@ git show
 git show hash
 git show development
 ```
-
-
-
+### Show changes N commits back
+#### one commit back
+```
+  git show HEAD~
+```
+#### two commits back
+```
+  git show HEAD~~
+  git show HEAD~2
+```
+#### N commits back
+```
+  git show HEAD~~~(N count)
+  git show HEAD~N
+```
 
 
