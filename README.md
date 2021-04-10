@@ -13,7 +13,7 @@ git checkout -B master hash/branch name
 git show
 ```
 ##### output: 
-```js
+```diff
 +const foo = () => {
 + return "bar";
 + }
