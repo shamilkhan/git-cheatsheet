@@ -5,7 +5,7 @@
 #### checkout master to commit hash:
 ```sh
 git branch master hash/branch name -f
-git checkout -B master
+git checkout -B master hash/branch name
 ```
 ### 👯‍♀️ Show commit changes
 #### By default show current commit changes:
